@@ -1,4 +1,4 @@
-# party-organizer
+# Express and Sequelize template app
 Nodejs mysql app with auth implementation
 
 
@@ -110,4 +110,6 @@ https://github.com/fatukunda/go-party/tree/develop/src
 https://freeappsforme.com/11-best-party-planner-apps/#my-party-planner-8211-lite
 This is sequelize short tutorial
 https://ajbraus.github.io/sequelize-it/#/?id=include-or-eager-loading
+
+https://medium.com/@prajramesh93/getting-started-with-node-express-and-mysql-using-sequelize-ed1225afc3e0
 
