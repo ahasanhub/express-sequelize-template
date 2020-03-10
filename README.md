@@ -1,4 +1,4 @@
-# Getting Started Express and Sequelize template app
+# Getting Started with node express and mysql using sequelize
 Getting started with node,express and mysql using sequalize
 
 ### Required Tools
