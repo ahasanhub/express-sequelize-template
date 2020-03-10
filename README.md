@@ -1,7 +1,4 @@
-# Express and Sequelize template app
-Nodejs mysql app with auth implementation
-
-
+# Getting Started Express and Sequelize template app
 Getting started with node,express and mysql using sequalize
 
 ### Required Tools
@@ -10,7 +7,7 @@ Let's take a moment to review the tools we're going to be using:
 Nodejs
 Express
 Mysql
-Sequelize 
+Sequelize
 NPM
 Postman
 
