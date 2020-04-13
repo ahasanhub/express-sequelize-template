@@ -6,7 +6,8 @@ PORT=8000
 JWT_KEY=jwtkey12175!$32#
 # Database
 DB_NAME=party-db
-DB_USER=root
+DB_USER=root|postgres
 DB_PASS=shobuz03
 DB_HOST=127.0.0.1
 TEST_DB_NAME=party-db-test
+DIALECT=mysql|postgres
